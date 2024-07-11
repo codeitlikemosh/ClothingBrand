@@ -1,0 +1,1 @@
+This project is a responsive and dynamic website for a clothing brand. The website is built using HTML, CSS, and JavaScript to provide an engaging and user-friendly experience. It features various sections including a home page, an about us section, a contact form, and more.
